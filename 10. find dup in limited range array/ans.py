@@ -1,5 +1,6 @@
 # This problem is Find all duplicates in an array.
 # Since elements are from 1 to n, and each appears at most twice, we can use a frequency array.
+
 def findDuplicates(arr):
     n = len(arr)
 
